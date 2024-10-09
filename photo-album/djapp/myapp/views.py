@@ -7,10 +7,10 @@ def index(request):
     return render(request, 'frontend/photo/index.html')
 
 # portfolio page
-def portfolio(request):
-    return render(request, 'frontend/photo/portfolio-detail.html')
+# def portfolio(request):
+#     return render(request, 'frontend/photo/portfolio-detail.html')
 
 # about page
-def about(request):
-    return render(request, 'frontend/photo/about.html')
+# def about(request):
+#     return render(request, 'frontend/photo/about.html')
 
